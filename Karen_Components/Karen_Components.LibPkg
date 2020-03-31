@@ -71,6 +71,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USIPAYMA
 
+[SearchPath1]
+Path=*.*
+IncludeSubFolders=1
+
+[Generic_IntLibOptions]
+OldFormat=False
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
